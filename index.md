@@ -1,5 +1,7 @@
 ---
 layout: default
-title: KazukiMiyazaki
+title: Kazuki Miyazaki
 ---
+
+![profile](img/chanteto.jpg)
 # WELCOME My homepage
